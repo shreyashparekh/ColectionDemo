@@ -12,6 +12,7 @@ namespace Day2
 
         int Add(int x, int y);
         int Sub(int x, int y);
+	 Console.WriteLine("Mihir OP");
     }
 
     interface ISciCal
